@@ -40,11 +40,7 @@ const perguntas = [
         correta: 1
     },
     {
-<<<<<<< HEAD
         pergunta: "Qual é o ''type'' utilizado para digitar senhas em um formulário?",
-=======
-        pergunta: "Qual é o &#34type&#34 utilizado para digitar senhas em um formulário?",
->>>>>>> 082b48c526a54a5ef9ecc52a375d4e08e6840bbf
         respostas: [
             "text",
             "password",
@@ -72,10 +68,7 @@ const perguntas = [
             "<datalist>"
         ],
         correta: 3 
-<<<<<<< HEAD
     },
-=======
->>>>>>> 082b48c526a54a5ef9ecc52a375d4e08e6840bbf
     {
         pergunta: "Qual é a finalidade do campo oculto em um formulário HTML?",
         respostas: [
